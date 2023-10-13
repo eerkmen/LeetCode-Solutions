@@ -18,3 +18,4 @@ This repository contains my solutions to challenges from [LeetCode](https://leet
 | Problem | Solution |
 | ------- | -------- |
 | [217. Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) | [Solution](./Arrays-Hashing/Easy/217-Contains%20Duplicate.py) |
+| [242. Valid Anagram](https://leetcode.com/problems/valid-anagram/) | [Solution](Arrays-Hashing/Easy/242-Valid_Anagram.py) |
