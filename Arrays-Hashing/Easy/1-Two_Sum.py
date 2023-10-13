@@ -10,6 +10,17 @@
 #time complexity: O(n)
 #memory complexity: O(n)
 
+class Solution:
+    def twoSum(self, nums: List[int], target: int) -> List[int]:
+        prevMap = {} # val : index
+
+        for i, n in enumerate(nums):
+            diff = target -n
+            if diff in prevMap:
+                return [prevMap[diff], i]
+            prevMap[na] = i
+        return
+    
 #brute force
 #check every combination for every element
 #time complexity: O(n^2)
