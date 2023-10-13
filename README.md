@@ -17,4 +17,4 @@ This repository contains my solutions to challenges from [LeetCode](https://leet
 
 | Problem | Solution |
 | ------- | -------- |
-| [217. Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) | [Solution](./Arrays-Hashing/Easy/217-Contains Duplicate.py) |
+| [217. Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) | [Solution](./Arrays-Hashing/Easy/217-Contains%20Duplicate.py) |
