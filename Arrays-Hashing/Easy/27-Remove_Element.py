@@ -8,3 +8,12 @@
 #if the value the left pointer is at is not the special value, just swap it by itself and increment it by one
 #this way we don't have to think about edge cases calculating the result
 
+class Solution:
+    def removeElement(self, nums: List[int], val: int) -> int:
+        L = 0
+
+        for R in range(len(nums)):
+            if nums[R] != val:
+                nums[L] = nums [R]
+                L += 1
+        return L
