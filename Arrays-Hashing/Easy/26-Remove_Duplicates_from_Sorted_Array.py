@@ -12,3 +12,13 @@
 #overwrite the value at the left pointer with the right pointer value
 #increment left and right pointer by 1
 #result= return left pointers index after right pointer goes out of bounds
+
+class Solution:
+    def removeDuplicates(self, nums: List[int]) -> int:
+        L = 1
+
+        for R in range(1, len(nums)):
+            if nums[R] != nums[R-1]:
+                nums[L] = nums[R]
+                L += 1
+        return L
