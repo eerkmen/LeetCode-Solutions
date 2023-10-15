@@ -18,7 +18,7 @@ class Solution:
             diff = target -n
             if diff in prevMap:
                 return [prevMap[diff], i]
-            prevMap[na] = i
+            prevMap[n] = i
         return
     
 #brute force
