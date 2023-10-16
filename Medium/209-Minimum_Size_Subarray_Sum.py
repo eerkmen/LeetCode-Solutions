@@ -31,13 +31,13 @@
 class Solution:
     def minSubArrayLen(self, target: int, nums: List[int]) -> int:
       L, total = 0, 0
-      res = float("inf")
+      minWindow = float("inf")
 
       for R in range(len(nums)):
-            total +=nums[r]
+            total +=nums[R]
             while total >= target:
-              res = min(R - L + 1, res)
+              minWindow = min(R - L + 1, minWindow)
               total -= nums[L]
               L += 1
 
-      return 0 if res == float("inf") else res
+      return 0 if minWindow == float("inf") else minWindow
