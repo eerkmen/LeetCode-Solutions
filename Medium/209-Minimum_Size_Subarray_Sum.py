@@ -28,3 +28,16 @@
 #time complexity: O(n)
 #memory complexity: O(1)
 
+class Solution:
+    def minSubArrayLen(self, target: int, nums: List[int]) -> int:
+      L, total = 0, 0
+      res = float("inf")
+
+      for R in range(len(nums)):
+            total +=nums[r]
+            while total >= target:
+              res = min(R - L + 1, res)
+              total -= nums[L]
+              L += 1
+
+      return 0 if res == float("inf") else res
