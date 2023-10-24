@@ -17,6 +17,7 @@
 #problem: if the input array element is a big number like a 1000 they would be the index 1000 in bucket sort array
 #space complexity bad
 
+#CHOSEN SOLUTION
 #bucket sort
 #the inverse way
 #index of bucket sort of array will be the number of time an input element appears
@@ -26,3 +27,7 @@
 #time complexity: O(n),linear time => if every single value is distinct every one of the input array values will be at the first index of bucket sort array. Iterating over the whole array
 #actually it is O(n + n) but we don't count constants
 #space complexity: o(n)
+
+class Solution:
+    def topKFrequent(self, nums: List[int], k: int) -> List[int]:
+        
