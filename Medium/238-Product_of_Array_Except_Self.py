@@ -24,3 +24,7 @@
 #output:first pass =>1,1,2,6 second pass => 24, 12, 8, 6
 #time complexity: O(n)
 #space complexity: O(1)
+
+class Solution:
+    def productExceptSelf(self, nums: List[int]) -> List[int]:
+        
