@@ -7,3 +7,6 @@
 #return all of the values in stack summed
 #time complexity O(1)
 
+class Solution:
+    def calPoints(self, operations: List[str]) -> int:
+        
