@@ -9,4 +9,13 @@
 
 class Solution:
     def calPoints(self, operations: List[str]) -> int:
-        
+        stack = []
+
+        for op in operations:
+            if op == "+":
+
+            elif op == "D":
+
+            elif op == "C":
+
+            else:
