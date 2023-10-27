@@ -22,4 +22,4 @@ class Solution:
             else:
                stack.append(int(op))
 
-            return sum(stack)
+        return sum(stack)
