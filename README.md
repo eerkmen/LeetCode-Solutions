@@ -17,4 +17,5 @@ This repository contains my solutions to challenges from [LeetCode](https://leet
 | [217. Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) | [Solution](Easy/217-Contains_Duplicate.py) | Easy |
 | [219. Contains Duplicate II](https://leetcode.com/problems/contains-duplicate-ii/) | [Solution](Easy/219-Contains_Duplicate_II.py) | Easy |
 | [242. Valid Anagram](https://leetcode.com/problems/valid-anagram/) | [Solution](Easy/242-Valid_Anagram.py) | Easy |
+| [682. Baseball Game](https://leetcode.com/problems/baseball-game/) | [Solution](Easy/682-Baseball_Game.py) | Easy |
 | [1929. Concatenation of Array](https://leetcode.com/problems/concatenation-of-array/) | [Solution](Easy/1929-Concatenation_of_Array.py) | Easy |
