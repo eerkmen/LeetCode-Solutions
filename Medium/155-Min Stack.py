@@ -25,7 +25,8 @@ class MinStack:
         self.minStack.append(val)
 
     def pop(self) -> None:
-        
+        self.stack.pop()
+        self.minStack.pop()
 
     def top(self) -> int:
         
