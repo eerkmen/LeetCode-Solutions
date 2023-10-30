@@ -25,3 +25,6 @@ for(i=0...n-1)
 #else restart the sum from the next element
 #time complexity: O(n)
 
+class Solution:
+    def maxSubArray(self, nums: List[int]) -> int:
+        
