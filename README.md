@@ -7,6 +7,7 @@ This repository contains my solutions to challenges from [LeetCode](https://leet
 | Problem | Solution | Difficulty |
 | ------- | -------- | ---------- |
 | [49. Group Anagrams](https://leetcode.com/problems/group-anagrams/) | [Solution](Medium/49-Group_Anagrams.py) | Medium |
+| [53. Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) | [Solution](Medium/53-Maximum Subarray.py) | Medium |
 | [80. Remove Duplicates from Sorted Array II](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/) | [Solution](Medium/80-Remove_Duplicates_from_Sorted_Array_II.py) | Medium |
 | [155. Min Stack](https://leetcode.com/problems/min-stack/) | [Solution](Medium/155-Min Stack.py) | Medium |
 | [209. Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum/) | [Solution](Medium/209-Minimum_Size_Subarray_Sum.py) | Medium |
