@@ -23,3 +23,5 @@ for(i=0...n-1)
 #ignore the negative values
 #if the sum is greater than 0 keep adding
 #else restart the sum from the next element
+#time complexity: O(n)
+
