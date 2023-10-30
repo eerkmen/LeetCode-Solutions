@@ -33,6 +33,6 @@ class Solution:
         for n in nums:
            if curSum < 0:
               curSum = 0
-            curSum += n
+           curSum += n
            maxSub = max(maxSub, curSum)
         return maxSub
