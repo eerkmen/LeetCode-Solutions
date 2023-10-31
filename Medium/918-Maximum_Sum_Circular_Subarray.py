@@ -9,3 +9,7 @@
 
 #handling circular requirement
 #if global min contigious subarray sum is known, we can totalsum-globalMin
+
+class Solution:
+    def maxSubarraySumCircular(self, nums: List[int]) -> int:
+        
