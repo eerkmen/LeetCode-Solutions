@@ -13,6 +13,7 @@
 #edge case: if every value is negative, total - globalMin = 0
 #check if globalMax < 0 then return max value in the array
 
+#time complexity: O(n)
 
 class Solution:
     def maxSubarraySumCircular(self, nums: List[int]) -> int:
