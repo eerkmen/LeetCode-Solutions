@@ -9,3 +9,7 @@
 #if turbulence: greater than and less than order is false: shift left pointers index to R-1's index
 #time complexity: O(n)
 #space complexity: O(1)
+
+class Solution:
+    def maxTurbulenceSize(self, arr: List[int]) -> int:
+        
