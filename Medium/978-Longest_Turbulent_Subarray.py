@@ -20,7 +20,7 @@ class Solution:
                 res = max(res, R - L + 1)
                 R += 1
                 prev = ">"
-            elif arr[R - 1] > arr[R] and prev != "<":
+            elif arr[R - 1] < arr[R] and prev != "<":
                 res = max(res, R - L + 1)
                 R += 1
                 prev = "<"
