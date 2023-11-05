@@ -8,3 +8,8 @@
 #if average is greater or equal to threshold
 #increment the left pointer by one
 #subtract the value from the current sum
+#memory complexity: O(1)
+
+class Solution:
+    def numOfSubarrays(self, arr: List[int], k: int, threshold: int) -> int:
+        
