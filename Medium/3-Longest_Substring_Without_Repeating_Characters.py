@@ -16,3 +16,7 @@
 #remove the duplicate from the set too
 #time complexity:O(n)
 #memory complexity:O(n)
+
+class Solution:
+    def lengthOfLongestSubstring(self, s: str) -> int:
+        
