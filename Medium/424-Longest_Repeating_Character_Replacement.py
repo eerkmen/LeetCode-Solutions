@@ -27,3 +27,6 @@
 #more complicated solution
 #time complexity: O(n) => compared to the previous sliding window solution actually O(n) there is no constant
 
+class Solution:
+    def characterReplacement(self, s: str, k: int) -> int:
+        
