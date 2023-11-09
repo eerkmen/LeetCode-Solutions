@@ -14,6 +14,7 @@ This repository contains my solutions to challenges from [LeetCode](https://leet
 | [209. Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum/) | [Solution](Medium/209-Minimum_Size_Subarray_Sum.py) | Medium |
 | [238. Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/) | [Solution](Medium/238-Product_of_Array_Except_Self.py) | Medium |
 | [347. Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/) | [Solution](Medium/347-Top_K_Frequent_Elements.py) | Medium |
+| [424. Longest Repeating Character Replacement](https://leetcode.com/problems/longest-repeating-character-replacement/) | [Solution](Medium/424-Longest_Repeating_Character_Replacement.py) | Medium |
 | [918. Maximum Sum Circular Subarray](https://leetcode.com/problems/maximum-sum-circular-subarray/) | [Solution](Medium/918-Maximum_Sum_Circular_Subarray.py) | Medium |
 | [978. Longest Turbulent Subarray](https://leetcode.com/problems/longest-turbulent-subarray/) | [Solution](Medium/978-Longest_Turbulent_Subarray.py) | Medium |
 | [1343. Number of Sub-arrays of Size K and Average Greater than or Equal to Threshold](https://leetcode.com/problems/number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold/) | [Solution](Medium/1343-Number_of_Sub-arrays_of_Size_K.py) | Medium |
