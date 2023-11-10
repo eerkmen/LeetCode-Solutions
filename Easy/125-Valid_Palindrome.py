@@ -8,6 +8,7 @@
 #if the character.isalnum
 # include it.lower in the newstring
 #if true return true
+#extra memory is needed
 
 class Solution:
     def isPalindrome(self, s: str) -> bool:
@@ -17,3 +18,5 @@ class Solution:
             if c.isalnum():
                 newStr += c.lower()
         return newStr == newStr[::-1]
+    
+
