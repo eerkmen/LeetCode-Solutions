@@ -27,3 +27,11 @@ class Solution:
 #while our Left pointer not alphanumerical keep incrementing
 #time complexity: O(n)
 #memory complexity: O(1)
+
+class Solution:
+    def isPalindrome(self, s: str) -> bool:
+        
+
+
+
+    def alphaNum(self, c):
