@@ -20,3 +20,10 @@ class Solution:
         return newStr == newStr[::-1]
     
 
+#two pointer method
+#keep incrementing left pointer and decrementing the right pointer
+#if .isalnum method not allowed to use
+#check ASCII values
+#while our Left pointer not alphanumerical keep incrementing
+#time complexity: O(n)
+#memory complexity: O(1)
