@@ -11,3 +11,7 @@
 # increment Left pointer by 1
 #return indeces
 #time complexity: O(n)
+
+class Solution:
+    def twoSum(self, numbers: List[int], target: int) -> List[int]:
+        
