@@ -19,6 +19,7 @@ class Solution:
 #initialize Right at the end
 #compare elements in left and right index
 #minimum one would be increment/decrement
+#time complexity: O(n)
 
 class Solution:
     def maxArea(self, height: List[int]) -> int:
