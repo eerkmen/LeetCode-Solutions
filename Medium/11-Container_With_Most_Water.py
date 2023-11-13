@@ -12,3 +12,10 @@ class Solution:
                 res = max (res, area)
         
         return res
+
+
+#two pointer method
+#initialize Left at the beginning
+#initialize Right at the end
+#compare elements in left and right index
+#minimum one would be increment/decrement
