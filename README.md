@@ -7,6 +7,7 @@ This repository contains my solutions to challenges from [LeetCode](https://leet
 | Problem | Solution | Difficulty |
 | ------- | -------- | ---------- |
 | [3. Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | [Solution](Medium/3-Longest_Substring_Without_Repeating_Characters.py) | Medium |
+| [11. Container With Most Water](https://leetcode.com/problems/container-with-most-water/) | [Solution](Medium/11-Container_With_Most_Water.py) | Medium |
 | [49. Group Anagrams](https://leetcode.com/problems/group-anagrams/) | [Solution](Medium/49-Group_Anagrams.py) | Medium |
 | [53. Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) | [Solution](Medium/53-Maximum_Subarray.py) | Medium |
 | [80. Remove Duplicates from Sorted Array II](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/) | [Solution](Medium/80-Remove_Duplicates_from_Sorted_Array_II.py) | Medium |
