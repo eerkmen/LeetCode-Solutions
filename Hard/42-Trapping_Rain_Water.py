@@ -24,3 +24,7 @@
 #if maxL-L>0 it contains water the amount of result 
 #time complexity: O(n)
 #memory complexity: without using extra memory
+
+class Solution:
+    def trap(self, height: List[int]) -> int:
+        
