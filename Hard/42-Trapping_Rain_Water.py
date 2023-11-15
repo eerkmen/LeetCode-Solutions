@@ -14,4 +14,13 @@
 #sum the values at min array
 #memory complexity: O(n)
 
-
+#solution 2
+#two pointer
+#end points can't contain any water
+#maxL, maxR keeps track the max so far
+#choose the one that has smaller max value
+#shift the smaller one
+#if Left pointer is incremented compare the left index to the maxL. if maxL-L!>0 it can't contain water
+#if maxL-L>0 it contains water the amount of result 
+#time complexity: O(n)
+#memory complexity: without using extra memory
