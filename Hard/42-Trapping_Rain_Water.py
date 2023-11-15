@@ -30,7 +30,7 @@ class Solution:
         
         if not height: return 0
 
-        L, R = 0 len(height) -1
+        L, R = 0, len(height) - 1
         leftMax, rightMax = height[L], height[R]
         res = 0
 
