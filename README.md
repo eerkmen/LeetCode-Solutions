@@ -6,6 +6,7 @@ This repository contains my solutions to challenges from [LeetCode](https://leet
 
 | Problem | Solution | Difficulty |
 | ------- | -------- | ---------- |
+| [42. Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/) | [Solution](Hard/42-Trapping_Rain_Water.py) | Hard |
 | [3. Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | [Solution](Medium/3-Longest_Substring_Without_Repeating_Characters.py) | Medium |
 | [11. Container With Most Water](https://leetcode.com/problems/container-with-most-water/) | [Solution](Medium/11-Container_With_Most_Water.py) | Medium |
 | [49. Group Anagrams](https://leetcode.com/problems/group-anagrams/) | [Solution](Medium/49-Group_Anagrams.py) | Medium |
