@@ -13,3 +13,16 @@
 #Right index - (left index - 1) of prefix sum array is the result 
 #check if left index - 1 is in bounds
 #time complexity: O(1)
+
+class NumArray:
+
+    def __init__(self, nums: List[int]):
+        
+
+    def sumRange(self, left: int, right: int) -> int:
+        
+
+
+# Your NumArray object will be instantiated and called as such:
+# obj = NumArray(nums)
+# param_1 = obj.sumRange(left,right)
