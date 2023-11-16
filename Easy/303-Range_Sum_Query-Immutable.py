@@ -24,7 +24,9 @@ class NumArray:
             self.prefix.append(cur)
 
     def sumRange(self, left: int, right: int) -> int:
-        
+        righSum = self.prefix[right]
+        leftSum = self.prefix[left - 1] if left > 0 else 0
+        return righSum - leftSum
 
 
 # Your NumArray object will be instantiated and called as such:
