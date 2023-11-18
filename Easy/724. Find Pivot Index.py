@@ -12,7 +12,7 @@
 
         leftSum = 0
         for i in range(len(nums)):
-           rightSum = total - num[i] - leftSum
+           rightSum = total - nums[i] - leftSum
            if leftSum == rightSum:
               return i
            leftSum += nums[i]
