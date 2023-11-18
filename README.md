@@ -30,4 +30,5 @@ This repository contains my solutions to challenges from [LeetCode](https://leet
 | [242. Valid Anagram](https://leetcode.com/problems/valid-anagram/) | [Solution](Easy/242-Valid_Anagram.py) | Easy |
 | [303. Range Sum Query - Immutable](https://leetcode.com/problems/range-sum-query-immutable/) | [Solution](Easy/303-Range_Sum_Query-Immutable.py) | Easy |
 | [682. Baseball Game](https://leetcode.com/problems/baseball-game/) | [Solution](Easy/682-Baseball_Game.py) | Easy |
+| [724. Find Pivot Index](https://leetcode.com/problems/find-pivot-index/) | [Solution](Easy/724. Find Pivot Index.py) | Easy |
 | [1929. Concatenation of Array](https://leetcode.com/problems/concatenation-of-array/) | [Solution](Easy/1929-Concatenation_of_Array.py) | Easy |
