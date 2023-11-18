@@ -5,5 +5,7 @@
 #prefix sums solution
 #calculate prefix array
 #for the right side subtract the left sum and pivot, this calculates right sum
-
  
+ class Solution:
+    def pivotIndex(self, nums: List[int]) -> int:
+        
