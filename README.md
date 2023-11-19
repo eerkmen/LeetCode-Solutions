@@ -16,6 +16,7 @@ This repository contains my solutions to challenges from [LeetCode](https://leet
 | [167. Two Sum II - Input Array Is Sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/) | [Solution](Medium/167-Two_Sum_II.py) | Medium |
 | [209. Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum/) | [Solution](Medium/209-Minimum_Size_Subarray_Sum.py) | Medium |
 | [238. Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/) | [Solution](Medium/238-Product_of_Array_Except_Self.py) | Medium |
+| [304. Range Sum Query 2D - Immutable](https://leetcode.com/problems/range-sum-query-2d-immutable/) | [Solution](Medium/304-Range_Sum_Query_2D-Immutable.py) | Medium |
 | [347. Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/) | [Solution](Medium/347-Top_K_Frequent_Elements.py) | Medium |
 | [424. Longest Repeating Character Replacement](https://leetcode.com/problems/longest-repeating-character-replacement/) | [Solution](Medium/424-Longest_Repeating_Character_Replacement.py) | Medium |
 | [918. Maximum Sum Circular Subarray](https://leetcode.com/problems/maximum-sum-circular-subarray/) | [Solution](Medium/918-Maximum_Sum_Circular_Subarray.py) | Medium |
