@@ -30,8 +30,15 @@ class NumMatrix:
                 above = self.sumMat[r][c + 1]
                 self.sumMat[r + 1][c + 1] = prefix + above
 
-    def sumRegion(self, row1: int, col1: int, row2: int, col2: int) -> int:
-        
+    def sumRegion(self, r1: int, c1: int, r2: int, c2: int) -> int:
+        r1, c1, r2, c2 = r1 + 1, c1 + 1, r2 + 1, c2 + 1
+
+        bottomRight = self.sumMat[r2][c2]
+        above = self.sumMat[r1 - 1][c2]
+        left = self.sumMat[r2][c1 - 1]
+        topLeft = self.sumMat[r1 - 1][c1 - 1]
+
+        return bottomRight - above - left + topLeft
 
 
 # Your NumMatrix object will be instantiated and called as such:
